@@ -1,0 +1,3 @@
+/home/bcgreen/src/code_test/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/bcgreen/src/code_test/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/bcgreen/src/code_test/cmake-build-release/CMakeFiles/file_list.dir
