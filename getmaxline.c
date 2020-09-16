@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #define MAXLINE 512
 
 int get_line(char line[], int maxline);
@@ -40,12 +39,11 @@ int get_line ( char line[], int maxline )
     {
         line[i] = c;
         ++i;
-        if (c = '\n')
+        if (c == '\n')
         {
             line[i] = '\0';
             
         }
-        
     }
     ++currline;
     return i;
